@@ -1,0 +1,3 @@
+- JNI Function 红色的解决办法（cannot resolve corresponding JNI function）
+  - 修改配置文件，搜索"JNI"，并取消选中 "Missing JNI function"
+    - Preferences > Editor > Inspections
